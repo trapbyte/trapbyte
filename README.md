@@ -22,6 +22,7 @@ I'm a developer in training, exploring everything that can be broken, debugged, 
 <img align="left" alt="Github" title="Github" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
 
 <br>
+<br>
 
 ---
 
