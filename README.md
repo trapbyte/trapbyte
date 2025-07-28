@@ -27,7 +27,7 @@ I'm a developer in training, exploring everything that can be broken, debugged, 
 ---
 
 ### 🚧 I am currently working on:
-- Personal proyects **Java**
+- Personal proyects in **Java**
 - Development of a **webstore** using **Tailwind CSS**
 - Construction of structures such as **binary trees** and doubly linked lists
 
